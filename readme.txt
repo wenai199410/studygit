@@ -1,1 +1,2 @@
 readme
+Git tracks changes.
